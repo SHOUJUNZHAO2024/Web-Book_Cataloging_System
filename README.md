@@ -7,10 +7,12 @@ The **Book Cataloging System** is a web application designed to allow users to m
 This project demonstrates full-stack development skills, including creating a robust backend for data management, client-side form validation, and implementing a responsive design for a seamless user experience across different devices.
 
 ## Author
-**Shoujun Zhao**  
+**Shoujun Zhao** (Lead Developer)  
 - Email: zhao0282@algonquinlive.com
-**Yuhang Zhang**
-**Guokai Shi**
+
+## Contributors
+- **Yuhang Zhang**  
+- **Guokai Shi**
 
 ## Key Features
 - **Backend Database Management**: Users can add, remove, update and display books through a web interface. The system manages the catalog of books efficiently.
